@@ -1,5 +1,5 @@
 /*
- * file-store-test.js: Tests for the nconf File store.
+ * nconf-test.js: General tests for nconf
  *
  * (C) 2011, Nodejitsu Inc.
  *
